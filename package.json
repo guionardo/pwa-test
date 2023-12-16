@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@pwabuilder/pwainstall": "^1.6.2",
+    "@pwabuilder/pwainstall": "^1.6.7",
     "@vaadin/router": "^1.7.1",
     "lit-element": "^2.3.1"
   },
